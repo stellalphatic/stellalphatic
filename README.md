@@ -1,18 +1,41 @@
-# 💫 About Me:
-🔭 I’m currently working on full-stack web and AI projects.<br>🌱 I’m currently unlocking new levels in Web3.0.<br>💬 Ask me about anything!
+<div align="center">
 
+### Hi, I'm
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cyberchronus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beingshahzaib26@gmail.com) 
+# Shahzaib
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stellalphatic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=stellalphatic&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stellalphatic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=500&size=22&duration=3200&pause=800&color=0ea5e9&center=true&width=560&lines=AI+Engineer;Full-Stack+Developer;Agentic+Systems+Builder;Automation+Specialist;DevOps+Enthusiast;Web3+Explorer" alt="Typing roles" /> </div> <br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=stellalphatic&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About me
+
+I build AI products end to end, from the model layer to the interface people actually touch. My work spans agentic systems that connect LLMs to real tools and data, RAG pipelines, full stack web and mobile apps, and the automation that ties APIs, webhooks, and schedulers together so things run without babysitting. I also handle the DevOps side, containerizing and deploying what I build so it survives outside my own machine.
+
+I care about systems that are reliable enough to trust in production, not just demos that work once. Most of that work lives in private repos, this profile is just the surface.
+
+- **Interests:**  Agentic AI, automation pipelines, real time systems, System design, Quant and a bit of Web3 when it earns its complexity.
+
+<br/>
+
+---
+
+## Tech
+
+<div align="center"> <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,flask,nodejs,nextjs,react,ts,js,threejs,graphql,dotnet,c,cpp,cs,solidity" alt="Tech" /> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,kafka,supabase,docker,kubernetes,nginx,aws,gcp,firebase,vercel,githubactions,figma,flutter,git" alt="Tech more" /> </div> <p align="center"> <b>AI Agents & Orchestration</b><br/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=d4a574" alt="Claude" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /> <img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square" alt="CrewAI" /> <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Agents SDK" /> <img src="https://img.shields.io/badge/Claude%20Agent%20SDK-191919?style=flat-square&logo=anthropic&logoColor=d4a574" alt="Claude Agent SDK" /> </p> <p align="center"> <b>Automation & Realtime</b><br/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" /> <img src="https://img.shields.io/badge/Inngest-000000?style=flat-square" alt="Inngest" /> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" /> <img src="https://img.shields.io/badge/LiveKit-000000?style=flat-square" alt="LiveKit" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" /> <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square" alt="WebSockets" /> <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" /> </p> <br/>
+
+---
+
+## GitHub Stats
+
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stellalphatic&theme=radical" alt="GitHub profile activity" /> <img height="165" src="https://streak-stats.demolab.com?user=stellalphatic&theme=radical&hide_border=true" alt="GitHub Streak" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=stellalphatic&theme=dracula&area=true&hide_border=true" alt="Contribution Graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellalphatic&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" /> </div> <br/>
+
+---
+
+<div align="center">
+
+### Connect
+
+<a href="https://www.linkedin.com/in/stellalphatic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/cyberchronus"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a> <a href="mailto:beingshahzaib26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+</div>
